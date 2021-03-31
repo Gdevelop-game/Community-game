@@ -2396,6 +2396,10 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
         "file": "assets/character/Player/manBlue_walk_1.png",
         "kind": "image",
         "metadata": "",
@@ -2405,6 +2409,12 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "assets/sprite_objects/NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/sprite_objects/NewFile-1.png",
+        "smoothed": true,
+        "userAdded": true
         "file": "assets/character/Player/manBlue_walk_2.png",
         "kind": "image",
         "metadata": "",
